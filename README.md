@@ -1,5 +1,8 @@
 # RGB Plasma implemented in PureScript
 
+## Demo
+See a running version of the source [here](https://ingvarkofoed.github.io/purescript-plasma/)
+
 ## Prerequsites
 Install following packages globally
 * [PureScript](https://www.npmjs.com/package/purescript)
