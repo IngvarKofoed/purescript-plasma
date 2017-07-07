@@ -8,7 +8,12 @@
   ],
   "dependencies": {
     "purescript-prelude": "^3.0.0",
-    "purescript-console": "^3.0.0"
+    "purescript-console": "^3.0.0",
+    "purescript-arrays": "^4.1.2",
+    "purescript-canvas": "^3.1.0",
+    "purescript-signal": "^9.0.0",
+    "purescript-colors": "^3.0.0",
+    "purescript-numbers": "^5.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
